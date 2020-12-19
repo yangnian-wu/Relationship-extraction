@@ -1,0 +1,6 @@
+company/company/invest 0
+company/company/acquisition 1
+company/company/cooperate 2
+company/company/compete 3
+company/person/chairman 4
+unknown 5
